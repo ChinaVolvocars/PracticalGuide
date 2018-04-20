@@ -3,7 +3,7 @@
 
 ## Tools & Software
 | Name | Description |
-| :---: | :----: |
+| :--- | :---- |
 | Text Editor | VSCode,Atom,Sublime Text |
 | Good Browser | Chrome or Firefox|
 | Image Editing | Photoshop,GIMP,etc|
